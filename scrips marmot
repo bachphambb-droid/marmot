@@ -37,6 +37,7 @@ getgenv().gagConfig = {
     KEEP_PETS = { 
 			"Headless Horseman",
 			"Reaper",
+            "Black Cat",
 			"Chinchilla",
 			"Chubby Chipmunk",
 			"Tiger",
@@ -65,7 +66,7 @@ getgenv().gagConfig = {
 			"Red Fox",
 			"Blood Owl",
 			["Firefly"] = 10,
-			["Chimpanzee"] = 8,
+			["Chimpanzee"] = 5,
 			["Red Panda"] = 10,
 			["Drake"] = 5,
 			["Luminous Sprite"] = 5,
