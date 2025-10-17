@@ -19,8 +19,8 @@ getgenv().gagConfig = {
 
     BUY_COSMETIC_SHOP = { ["Cooking Kit"] = 3 },
 
-    -- MAX_PLANTS = 150,
-    -- DESTROY_UNTIL_MIN_PLANTS = 100,
+    -- MAX_PLANTS = 100,
+    -- DESTROY_UNTIL_MIN_PLANTS = 80,
 	KEEP_SEEDS = { "Bone Blossom" },
     -- DELETE_PLANTS_AFTER_MAX = { "Carrot", "Strawberry", "Blueberry", "Tomato", "Apple" },
    
