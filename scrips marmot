@@ -35,6 +35,8 @@ getgenv().gagConfig = {
     SKIP_HARVEST_MUTATIONS = {},  -- Stop Harvest
 
     KEEP_PETS = { 
+			"Hex Serpent",
+			"Goat",
 			"Headless Horseman",
 			"Reaper",
 			"Wolf",
@@ -43,10 +45,7 @@ getgenv().gagConfig = {
 			"Chubby Chipmunk",
 			"Tiger",
 			"Mizuchi",
-			"Barn Owl",
 			"Phoenix",
-			"Cockatrice",
-			"Griffin",
 			"Golden Goose",
 			"Lobster Thermidor",
 			"French Fry Ferret",
@@ -65,9 +64,9 @@ getgenv().gagConfig = {
 			"Mimic Octopus",
 			"Red Fox",
 			"Blood Owl",
-			["Black Cat"] = 10,
+			["Black Cat"] = 8,
 			["Firefly"] = 10,
-			["Red Panda"] = 10,
+			["Red Panda"] = 5,
 			["Glimmering Sprite"] = 5,
 			["Starfish"] = 8,
 			["Shiba Inu"] = 1,
@@ -82,7 +81,7 @@ getgenv().gagConfig = {
 	MAX_REBIRTH_SHECKLES = 1_000_000_000_000_000,
 	BUY_ASCEND_SHOP = {"Egg Capacity Upgrade"},
 
-     EQUIP_PETS = { ["Ghost Bear"] = 8 },
+     EQUIP_PETS = { {"Ghost Bear", 8, 1}, {"Rooster", 8, 2} },
 
     USE_PETS_FOR_UPGRADE_SLOT = { "Glimmering Sprite" },
     REMOVE_PET_MAX_UPGRADE = { "Glimmering Sprite", "Starfish" },  -- Unequip from garden
@@ -94,6 +93,7 @@ getgenv().gagConfig = {
 	SHOW_PUBLIC_DISCORD_ID = false,
     SEED_WEBHOOK_URL = "", 
     NOTIFY_PETS = {
+				"Hex Serpent",
 				"Headless Horseman",
 				"Chinchilla",
 				"Tiger",
@@ -114,7 +114,7 @@ getgenv().gagConfig = {
 				},
     NOTIFY_PETS_WEIGHT = { ["Red Giant Ant"] = 10, ["Bear Bee"] = 10, ["Tanchozuru"] = 10 },
     DISCORD_ID = "111zzz",
-    WEBHOOK_NOTE = "BP6",
+    WEBHOOK_NOTE = "BP",
     SHOW_WEBHOOK_USERNAME = true,
     SHOW_WEBHOOK_JOBID = false,
 }
