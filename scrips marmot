@@ -36,7 +36,10 @@ getgenv().gagConfig = {
     FAVOURITE_FRUIT_MUTATIONS = {},  -- Stop Autosell
     SKIP_HARVEST_MUTATIONS = {},  -- Stop Harvest
 
-    KEEP_PETS = { 
+    KEEP_PETS = {
+			"Mummy",
+			"Lich",
+			"Woody",
 			"Hex Serpent",
 			"Goat",
 			"Headless Horseman",
