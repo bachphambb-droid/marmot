@@ -3,7 +3,7 @@ setfpscap(3)
 getgenv().gagConfig = {
     -- Event:
     BUY_TRAVELING_MERCHANT = { "Bee Egg", "Paradise Egg", "Fall Egg", "Loquat", "Feijoa", "Pitcher Plant" },
-    BUY_EVENT_SHOP = { "Spooky Egg" },
+    BUY_EVENT_SHOP = { "Spooky Egg", "Spooky Chest" },
     MAX_EVENT_RESTOCK_SHECKLES = 48000001,
 
     PLACE_COSMETIC = { "Cooking Kit" },
@@ -43,7 +43,6 @@ getgenv().gagConfig = {
 			"Hex Serpent",
 			"Goat",
 			"Headless Horseman",
-			"Reaper",
 			"Wolf",
 			"Pumpkin Rat",
 			"Chinchilla",
@@ -69,8 +68,8 @@ getgenv().gagConfig = {
 			"Mimic Octopus",
 			"Red Fox",
 			"Blood Owl",
-			["Black Cat"] = 10,
-			["Firefly"] = 5,
+			["Black Cat"] = 5,
+			["Reaper"] = 5,
 			["Red Panda"] = 5,
 			["Glimmering Sprite"] = 5,
 			["Starfish"] = 8,
@@ -97,7 +96,8 @@ getgenv().gagConfig = {
 	SHOW_PUBLIC_DISCORD_ID = false,
     SEED_WEBHOOK_URL = "", 
     NOTIFY_PETS = {
-				"Headless Horseman",
+				"Mummy",
+				"Lich",
 				"Chinchilla",
 				"Tiger",
 				"Swan",
