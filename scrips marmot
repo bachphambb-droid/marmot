@@ -44,7 +44,6 @@ getgenv().gagConfig = {
 			"Hex Serpent",
 			"Goat",
 			"Headless Horseman",
-			"Wolf",
 			"Pumpkin Rat",
 			"Chinchilla",
 			"Chubby Chipmunk",
@@ -90,13 +89,14 @@ getgenv().gagConfig = {
     USE_PETS_FOR_UPGRADE_SLOT = {},
     REMOVE_PET_MAX_UPGRADE = { "Glimmering Sprite", "Starfish" },  -- Unequip from garden
 
-    BUY_GEAR_SHOP = { "Cleansing Pet Shard", "Grandmaster Sprinkler", "Master Sprinkler", "Godly Sprinkler", "Advanced Sprinkler", "Basic Sprinkler", "Trading Ticket", ["Harvest Tool"] = 10, ["Watering Can"] = 20 },
+    BUY_GEAR_SHOP = { "Grandmaster Sprinkler", "Master Sprinkler", "Godly Sprinkler", "Advanced Sprinkler", "Basic Sprinkler", "Trading Ticket", ["Harvest Tool"] = 10, ["Watering Can"] = 20 },
     USE_SPRINKLER = { "Basic Sprinkler", "Master Sprinkler", "Godly Sprinkler", "Advanced Sprinkler", "Grandmaster Sprinkler" },
 
     PET_WEBHOOK_URL = "https://discordapp.com/api/webhooks/1401130847536545924/UaWqYjbhfbhDlhM6iOudDWD7SC4M8wMohF_bmxEAznp9HvcbXVSBlcgRjLTT46z9EMZN",
 	SHOW_PUBLIC_DISCORD_ID = false,
     SEED_WEBHOOK_URL = "", 
     NOTIFY_PETS = {
+				"Headless Horseman",
 				"Mummy",
 				"Lich",
 				"Chinchilla",
