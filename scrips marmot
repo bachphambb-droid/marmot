@@ -66,6 +66,7 @@ getgenv().gagConfig = {
 			"Mimic Octopus",
 			"Red Fox",
 			"Blood Owl",
+			["Tomb Marmot"] = 5,
 			["Bat"] = 5,
 			["Crow"] = 5,
 			["Scarab"] = 5,
