@@ -37,11 +37,9 @@ getgenv().gagConfig = {
     SKIP_HARVEST_MUTATIONS = {},  -- Stop Harvest
 
     KEEP_PETS = {
-			"Tomb Marmot",
 			"Mummy",
 			"Lich",
 			"Woody",
-			"Hex Serpent",
 			"Goat",
 			"Headless Horseman",
 			"Pumpkin Rat",
@@ -68,6 +66,9 @@ getgenv().gagConfig = {
 			"Mimic Octopus",
 			"Red Fox",
 			"Blood Owl",
+			["Bat"] = 5,
+			["Crow"] = 5,
+			["Scarab"] = 5,
 			["Black Cat"] = 5,
 			["Reaper"] = 5,
 			["Red Panda"] = 5,
