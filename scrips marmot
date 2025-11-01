@@ -37,6 +37,7 @@ getgenv().gagConfig = {
     SKIP_HARVEST_MUTATIONS = {},  -- Stop Harvest
 
     KEEP_PETS = {
+			"Hydra"
 			"Elephant",
 			"Lich",
 			"Rhino",
@@ -64,7 +65,6 @@ getgenv().gagConfig = {
 			"Mimic Octopus",
 			"Red Fox",
 			"Blood Owl",
-			["Tomb Marmot"] = 5,
 			["Giraffe"] = 10,
 			["Zebra"] = 5,
 			["Red Panda"] = 5,
@@ -94,7 +94,7 @@ getgenv().gagConfig = {
     SEED_WEBHOOK_URL = "", 
     NOTIFY_PETS = {
 				"Headless Horseman",
-				"Mummy",
+				"Elephant",
 				"Lich",
 				"Chinchilla",
 				"Tiger",
