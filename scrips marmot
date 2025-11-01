@@ -3,7 +3,7 @@ setfpscap(3)
 getgenv().gagConfig = {
     -- Event:
     BUY_TRAVELING_MERCHANT = { "Bee Egg", "Paradise Egg", "Fall Egg", "Loquat", "Feijoa", "Pitcher Plant" },
-    BUY_EVENT_SHOP = { "Spooky Egg", "Spooky Chest" },
+    BUY_EVENT_SHOP = { "Safari Egg" },
     MAX_EVENT_RESTOCK_SHECKLES = 48000001,
 
     PLACE_COSMETIC = { "Cooking Kit" },
@@ -37,7 +37,7 @@ getgenv().gagConfig = {
     SKIP_HARVEST_MUTATIONS = {},  -- Stop Harvest
 
     KEEP_PETS = {
-			"Mummy",
+			"Elephant",
 			"Lich",
 			"Rhino",
 			"Headless Horseman",
@@ -82,7 +82,7 @@ getgenv().gagConfig = {
 	MAX_REBIRTH_SHECKLES = 1_000_000_000_000_000,
 	BUY_ASCEND_SHOP = {"Egg Capacity Upgrade"},
 
-    EQUIP_PETS = { {"Ghost Bear", 8, 1}, {"Rooster", 8, 2} },
+	EQUIP_PETS = { {"Rooster", 8, 1} },
     USE_PETS_FOR_UPGRADE_SLOT = {},
     REMOVE_PET_MAX_UPGRADE = { "Glimmering Sprite", "Starfish" },  -- Unequip from garden
 
