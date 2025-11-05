@@ -74,6 +74,8 @@ getgenv().gagConfig = {
 	},
     KEEP_PETS_WEIGHT = { ["Red Giant Ant"] = 5 },
     KEEP_PETS_AGE = { ["Starfish"] = 75 },
+	SELL_PETS_WEIGHT = { "Glimmering Sprite", "Spaghetti Sloth", "Golem", "Sunny-Side Chicken", "Jackalope", "Gorilla Chef" },
+	SELL_PETS_AGE = { "Glimmering Sprite", "Spaghetti Sloth", "Golem", "Sunny-Side Chicken", "Jackalope", "Gorilla Chef" },
 
 	-- test
 	EQUIP_PET_SHARD = { ["Glimmering Sprite"] = "Glimmering" },
