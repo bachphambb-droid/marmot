@@ -80,7 +80,6 @@ getgenv().gagConfig = {
 			["Rhino"] = 18,
 			["Red Panda"] = 5,
 			["Sapphire Macaw"] = 10,
-			["Crocodile"] = 5,
 			["Shiba Inu"] = 1,
 			["Blood Kiwi"] = 2,
 			["Rooster"] = 8
