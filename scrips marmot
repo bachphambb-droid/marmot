@@ -80,7 +80,7 @@ getgenv().gagConfig = {
 			["Red Panda"] = 5,
 			["Shiba Inu"] = 1,
 			["Blood Kiwi"] = 2,
-			["Rooster"] = 8
+			["Rooster"] = 8,
 			["Peacock"] = 10
 	},
     KEEP_PETS_WEIGHT = 5,
