@@ -37,7 +37,6 @@ getgenv().gagConfig = {
 
     KEEP_PETS = {
 			"Bearded Dragon",
-			"Pack Mule",
 			"Goblin Miner",
 			"Cheetah",
 			"Smithing Dog",
@@ -79,6 +78,7 @@ getgenv().gagConfig = {
 			["Dog"] = 2,
 			["Orange Tabby"] = 2,
 			["Rhino"] = 18,
+			["Pack Mule"] = 10,
 			["Red Panda"] = 5,
 			["Shiba Inu"] = 1,
 			["Blood Kiwi"] = 2,
