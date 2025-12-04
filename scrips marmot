@@ -99,7 +99,7 @@ getgenv().gagConfig = {
 	MAX_REBIRTH_SHECKLES = 1_000_000_000_000_000,
 	BUY_ASCEND_SHOP = {"Egg Capacity Upgrade", "Pet Inventory Capacity Upgrade"},
 
-    EQUIP_PETS = { {"Rhino", 4, 1}, {"Bearded Dragon", 4, 2} },
+    EQUIP_PETS = { {"Rhino", 8, 1} },
     USE_PETS_FOR_UPGRADE_SLOT = {},
     REMOVE_PET_MAX_UPGRADE = { "Glimmering Sprite", "Starfish" },  -- Unequip from garden
 
