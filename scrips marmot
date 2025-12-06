@@ -3,7 +3,7 @@ setfpscap(3)
 getgenv().gagConfig = {
     -- Event:
     BUY_TRAVELING_MERCHANT = { "Bee Egg", "Paradise Egg", "Loquat", "Feijoa", "Pitcher Plant", "Jungle Egg" },
-   BUY_EVENT_SHOP = { "Gem Egg" },
+   BUY_EVENT_SHOP = { "Gem Egg", "Santa's Surprise Present", "Christmas Present", "Christmas Crate", "Holiday Crate" },
     PLANT_EVENT_TREES = true,
 	
     PLACE_COSMETIC = { "Cooking Kit" },
@@ -22,8 +22,8 @@ getgenv().gagConfig = {
 
 	PLANT_EVENT_TREES = true,
 
-	MAX_PLANTS = 400,
-    DESTROY_UNTIL_MIN_PLANTS = 350,
+	MAX_PLANTS = 250,
+    DESTROY_UNTIL_MIN_PLANTS = 200,
     KEEP_SEEDS = { "Bone Blossom" },
     KEEP_SEEDS_AFTER_MAX_PLANTS = {},
    
@@ -116,6 +116,11 @@ getgenv().gagConfig = {
 	SHOW_PUBLIC_DISCORD_ID = false,
     SEED_WEBHOOK_URL = "", 
     NOTIFY_PETS = {
+			"Christmas Gorilla",
+			"Krampus",
+			"Arctic Fox",
+			"French Hen",
+			"Frost Dragon",
 				"Ruby Squid",
 				},
     NOTIFY_PETS_WEIGHT = { ["Red Giant Ant"] = 10, ["Bear Bee"] = 10, ["Tanchozuru"] = 10 },
