@@ -36,6 +36,9 @@ OPEN_ALL_PRESENT = true,
     SKIP_HARVEST_MUTATIONS = {},  -- Stop Harvest
 
     KEEP_PETS = {
+			"Nutcracker",
+			"Yeti",
+			"Ice Golem",
 			["Christmas Gorilla"] = 8,
 			"Mistletoad",
 			"Krampus",
@@ -116,8 +119,10 @@ OPEN_ALL_PRESENT = true,
 	SHOW_PUBLIC_DISCORD_ID = false,
     SEED_WEBHOOK_URL = "", 
     NOTIFY_PETS = {
+			"Nutcracker",
+			"Yeti",
+			"Ice Golem",
 			"Krampus",
-			"Arctic Fox",
 			"Frost Dragon",
 				"Ruby Squid",
 				},
