@@ -27,8 +27,8 @@ OPEN_ALL_PRESENT = true,
     KEEP_SEEDS = { "Bone Blossom" },
     KEEP_SEEDS_AFTER_MAX_PLANTS = {},
    
-	BUY_EGGS = { "Common Egg", "Gem Egg", "Safari Egg", "Spooky Egg", "Jungle Egg", "Rare Egg", "Bug Egg", "Bee Egg", "Paradise Egg", "Zen Egg", "Uncommon Egg" },
-    PLANT_EGGS = { "Gem Egg", "Spooky Egg", "Rare Summer Egg", "Common Summer Egg", "Safari Egg", "Jungle Egg", "Bug Egg", "Bee Egg", "Paradise Egg" },
+	BUY_EGGS = { "Christmas Egg", "Common Egg", "Gem Egg", "Safari Egg", "Spooky Egg", "Jungle Egg", "Rare Egg", "Bug Egg", "Bee Egg", "Paradise Egg", "Zen Egg", "Uncommon Egg" },
+    PLANT_EGGS = { "Christmas Egg", "Gem Egg", "Spooky Egg", "Rare Summer Egg", "Common Summer Egg", "Safari Egg", "Jungle Egg", "Bug Egg", "Bee Egg", "Paradise Egg" },
     
     BUY_SEED_SHOP = { "Octobloom Seed", "Zebrazinkle", "Crimson Thorn", "Romanesco", "Elder Strawberry", "Giant Pinecone", "Burning Bud", "Sugar Apple", "Ember Lily", "Beanstalk", "Sunflower", "Cacao", "Pepper", "Mushroom", "Grape", "Mango", "Dragon Fruit", "Cactus", "Coconut", "Bamboo", "Apple", "Pumpkin", "Watermelon", "Daffodil", "Corn", "Tomato", "Buttercup", "Blueberry", "Strawberry", "Carrot" },
 	
