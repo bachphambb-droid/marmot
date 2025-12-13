@@ -36,6 +36,8 @@ OPEN_ALL_PRESENT = true,
     SKIP_HARVEST_MUTATIONS = {},  -- Stop Harvest
 
     KEEP_PETS = {
+			"Cocoa Cat",
+			"Eggnog Chick",
 			"Nutcracker",
 			"Yeti",
 			"Ice Golem",
