@@ -117,8 +117,6 @@ OPEN_ALL_PRESENT = true,
 	SHOW_PUBLIC_DISCORD_ID = false,
     SEED_WEBHOOK_URL = "", 
     NOTIFY_PETS = {
-			"Nutcracker",
-			"Yeti",
 			"Ice Golem",
 			"Krampus",
 			"Frost Dragon",
