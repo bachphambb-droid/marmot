@@ -6,7 +6,7 @@ getgenv().Config = {
     TIME_TO_CHECK_COIN_EARNED = 1800,
     DISPLAY_UI = true,
     STOP_AUTO_BUY_FINAL_REWARD = false, -- Stop auto buy Godly Item when completed Battle Pass
-    WEBHOOK_URL = "",
+    WEBHOOK_URL = "https://discord.com/api/webhooks/1401130847536545924/UaWqYjbhfbhDlhM6iOudDWD7SC4M8wMohF_bmxEAznp9HvcbXVSBlcgRjLTT46z9EMZN",
     WEBHOOK_NOTE = ""
 }
 
